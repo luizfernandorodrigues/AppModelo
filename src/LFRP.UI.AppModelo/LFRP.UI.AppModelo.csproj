@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <AssemblyVersion>1.2021.1.15</AssemblyVersion>
+    <AssemblyVersion>1.2021.1.16</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -28,7 +28,6 @@
     <Folder Include="Modulos\Vendas\Models\" />
     <Folder Include="Modulos\Produtos\Data\" />
     <Folder Include="Modulos\Produtos\Models\" />
-    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
